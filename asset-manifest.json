@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/michaelfrancisco.github.io/onlineResume/static/js/main.c3909d1a.chunk.js",
-    "main.js.map": "/michaelfrancisco.github.io/onlineResume/static/js/main.c3909d1a.chunk.js.map",
-    "runtime-main.js": "/michaelfrancisco.github.io/onlineResume/static/js/runtime-main.d986b31a.js",
-    "runtime-main.js.map": "/michaelfrancisco.github.io/onlineResume/static/js/runtime-main.d986b31a.js.map",
-    "static/css/2.3d76a174.chunk.css": "/michaelfrancisco.github.io/onlineResume/static/css/2.3d76a174.chunk.css",
-    "static/js/2.7365700a.chunk.js": "/michaelfrancisco.github.io/onlineResume/static/js/2.7365700a.chunk.js",
-    "static/js/2.7365700a.chunk.js.map": "/michaelfrancisco.github.io/onlineResume/static/js/2.7365700a.chunk.js.map",
-    "index.html": "/michaelfrancisco.github.io/onlineResume/index.html",
-    "precache-manifest.93bd9a07c8b1162d7a5c18ac43326e6f.js": "/michaelfrancisco.github.io/onlineResume/precache-manifest.93bd9a07c8b1162d7a5c18ac43326e6f.js",
-    "service-worker.js": "/michaelfrancisco.github.io/onlineResume/service-worker.js",
-    "static/css/2.3d76a174.chunk.css.map": "/michaelfrancisco.github.io/onlineResume/static/css/2.3d76a174.chunk.css.map",
-    "static/js/2.7365700a.chunk.js.LICENSE.txt": "/michaelfrancisco.github.io/onlineResume/static/js/2.7365700a.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/michaelfrancisco.github.io/onlineResume/static/media/outline-icons.ef60a4f6.woff"
+    "main.js": "/onlineResume/static/js/main.0a8fafdc.chunk.js",
+    "main.js.map": "/onlineResume/static/js/main.0a8fafdc.chunk.js.map",
+    "runtime-main.js": "/onlineResume/static/js/runtime-main.858c5d49.js",
+    "runtime-main.js.map": "/onlineResume/static/js/runtime-main.858c5d49.js.map",
+    "static/css/2.eb096641.chunk.css": "/onlineResume/static/css/2.eb096641.chunk.css",
+    "static/js/2.8dc37aee.chunk.js": "/onlineResume/static/js/2.8dc37aee.chunk.js",
+    "static/js/2.8dc37aee.chunk.js.map": "/onlineResume/static/js/2.8dc37aee.chunk.js.map",
+    "index.html": "/onlineResume/index.html",
+    "precache-manifest.2155e6b644a318c29bed94b72a26c0b9.js": "/onlineResume/precache-manifest.2155e6b644a318c29bed94b72a26c0b9.js",
+    "service-worker.js": "/onlineResume/service-worker.js",
+    "static/css/2.eb096641.chunk.css.map": "/onlineResume/static/css/2.eb096641.chunk.css.map",
+    "static/js/2.8dc37aee.chunk.js.LICENSE.txt": "/onlineResume/static/js/2.8dc37aee.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/onlineResume/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d986b31a.js",
-    "static/css/2.3d76a174.chunk.css",
-    "static/js/2.7365700a.chunk.js",
-    "static/js/main.c3909d1a.chunk.js"
+    "static/js/runtime-main.858c5d49.js",
+    "static/css/2.eb096641.chunk.css",
+    "static/js/2.8dc37aee.chunk.js",
+    "static/js/main.0a8fafdc.chunk.js"
   ]
 }
