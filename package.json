@@ -1,0 +1,44 @@
+{
+  "homepage":"michaelFrancisco.github.io/onlineResume",
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "material-design-icons": "^3.0.1",
+    "react": "15.6.2",
+    "react-awesome-resume": "^0.1.0",
+    "react-dom": "15.6.2",
+    "react-scripts": "3.4.3",
+    "semantic-ui-css": "^2.4.1"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "gh-pages": "^3.1.0"
+  }
+}
